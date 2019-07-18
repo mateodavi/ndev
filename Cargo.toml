@@ -1,7 +1,12 @@
 [package]
 name = "ndev"
 version = "0.1.0"
-authors = ["Matt Gonzalez <mdgonzal92@gmail.com>"]
+description = "neuroevolution library"
+homepage = "https://github.com/mateodavi/ndev"
+repository = "https://github.com/mateodavi/ndev"
+keywords = ["neural", "network", "genetic", "algorithm", "neuroevolution"]
+license = "BSD-3-Clause"
+authors = ["mateodavi"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
